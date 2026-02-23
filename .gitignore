@@ -1,0 +1,11 @@
+# Ignore WordPress core config and uploads
+wp-config.php
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/backups/
+/wp-content/upgrade/
+/wp-content/ai1wm-backups/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
