@@ -1,0 +1,9 @@
+wordpress-site/
+├── wp-content/
+│   ├── themes/
+│   ├── plugins/
+│   └── uploads/   ← IGNORE
+├── wp-config.php ← IGNORE
+├── index.php
+├── wp-admin/
+└── wp-includes/
